@@ -13,6 +13,8 @@ covers:
 - cover_type: generated
   image_path: cover.png
 description: 'Conjecturally attributed to Elinor Glyn, author of ''Three Weeks," #8899.'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/13776#One-DayA-sequel-to-Three-Weeks-
 gutenberg_issued: '2004-10-18'
 gutenberg_type: Text
 identifiers:
