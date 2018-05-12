@@ -1,0 +1,30 @@
+_repo: One-DayA-sequel-to-Three-Weeks-_13776
+_version: 0.1.0
+contributor:
+  dubious_author:
+    agent_name: Glyn, Elinor
+    alias: Glyn, Elinor Sutherland
+    birthdate: 1864
+    deathdate: 1943
+    gutenberg_agent_id: '1762'
+    url: http://www.gutenberg.org/2009/agents/1762
+    wikipedia: http://en.wikipedia.org/wiki/Elinor_Glyn
+covers:
+- cover_type: generated
+  image_path: cover.png
+description: 'Conjecturally attributed to Elinor Glyn, author of ''Three Weeks," #8899.'
+gutenberg_issued: '2004-10-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '13776'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fiction'
+- !lcc 'PR'
+title: 'One Day
+
+  A sequel to ''Three Weeks'''
+url: http://www.gutenberg.org/ebooks/13776
